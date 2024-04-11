@@ -1,4 +1,4 @@
-### Hey 👋, I'm Jack Yu.
+### Hey 👋, I'm Kathan Sheth.
 
 <a href="https://medium.com/">
   <img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/medium.svg" />
@@ -22,7 +22,7 @@
 <br />
 <br />
 
-- I am a **Programming rookie** 
+- I am a **Programming rookie** **Web Developer** 
 - I like to use a variety of useful **computer software** and build  **beautiful blog.**
 - I also like **literature, reading and writing.** 
 - I used to dream of being a writer.But **the reality made me have to learn a technology💻,**
@@ -34,9 +34,9 @@
 
 **Talking about Personal Stuffs:**
 
-- 👨‍🏛 I am currently a student of **JSU**.
+- 👨‍🏛 Graduated Student **UNIVERSITY OF BEDFORDSHIRE**.
 - 💻 Major is **Computer Science and Technology**.
-- 🌱 I'm currently learning **Web development and English**. 
+- 🌱 I'm currently learning **REACT JS & MEMORISING DSA**. 
 - 🤔 My hobbies are **playing chess and running**.
 - 💼 I am an **obsessive-compulsive disorder**.
 - 💬 If you have any questions, **just ask me**.
